@@ -5,31 +5,32 @@ ADVANCED DATA STRUCTURES
 ------------
 Module-1
 ------------
-[Hand Written Notes](HandWritten.pdf)
+[Hand Written Notes](Module-1/HandWritten.pdf)
 1.  Array
-2.  linked list and its variants 
+2.  [linked list and its variants](Linkedlist.pdf) 
 3.  Stack 
 4.  Queue  
-5.  Trees 
-6.  [Set Data Structure:- Representation of sets, Set implementation using bit string.](Set.pdf)
-7.  Hashing :- SImple hash functions, Collision and Collision Resolution techniques.
-8.  Amortised Analysis - Aggregate, Accounting and Potential Methods
-9.  [Disjoint sets- representations, Union, Find algorithms](DisjointSet.pdf)
+5.  [Set Data Structure:- Representation of sets, Set implementation using bit string.](Module-1/Set.pdf)
+6.  Hashing :- SImple hash functions, Collision and Collision Resolution techniques.
+7.  [Amortised Analysis - Aggregate, Accounting and Potential Methods](Module-1/Amortized%20Analysis)
+8.  [Disjoint sets- representations, Union, Find algorithms](Module-1/DisjointSet.pdf)
 
 ------------
 Module-2
 ------------
 1.  Balanced Binary Search trees
-2.  Red-Black trees- Properties of Red Black trees, Rotations, Insertion, Deletion.
-3.  B-Trees- Basic operations on B-Trees – Insertion and Deletion.
-4.  Introduction to Splay Trees and Suffix Trees
+2.  [Red-Black trees- Properties of Red Black trees, Rotations, Insertion, Deletion.](Module-2/RedBlackTree)
+3.  [B-Trees- Basic operations on B-Trees – Insertion and Deletion.](Module-2/BTree)
+4.  [Splay Trees](Module-2/Splay%20Tree.pdf)
+5.  [Suffix Trees](Module-2/Suffix%20Tree.pdf)
+
 
 ------------
 Module-3
 ------------
 1.  Mergeable Heaps and operations on Mergeable Heaps.
-2.  Binomial Heaps, Binomial Heap operations and Analysis
-3.  Fibonacci Heaps, Fibonacci Heap operations and Analysis
+2.  [Binomial Heaps, Binomial Heap operations and Analysis](Module-4/Binomial%20Heap)
+3.  [Fibonacci Heaps, Fibonacci Heap operations and Analysis](Module-4/Fibinacci%20Heap)
 
 ------------
 Module-4
@@ -45,7 +46,7 @@ Module-4
 ------------
 Module-5
 ------------
-1.  [Blockchain Architecture](BlockChain)
+1.  [Blockchain Architecture](Module-5)
 2.  Blockchain Data Structures and Data types 
 3.  Contract Data
 4.  Problems to be solved in Blockchain data analysis
