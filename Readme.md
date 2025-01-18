@@ -1,5 +1,5 @@
 # 📘 MCA Community Hub (2024-2026)  
-**[Visit the Website](https://yadhukrishnx.github.io/MCA/)**  
+**[Visit the Website](https://cetmca26.live)**  
 
 Welcome to the **MCA Community Hub** for the academic period **2024-2026**! 🎓  
 This platform is a one-stop solution designed exclusively for MCA students to access and share resources such as **notes**, **reference videos**, **syllabus**, **entrance materials**, and more. Let's make learning collaborative and accessible for everyone!
