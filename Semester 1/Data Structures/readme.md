@@ -6,10 +6,10 @@ ADVANCED DATA STRUCTURES
 Module-1
 ------------
 [Hand Written Notes](Module-1/HandWritten.pdf)
-1.  Array
+1.  [Array](Module-1/Array.pdf)
 2.  [linked list and its variants](Linkedlist.pdf) 
-3.  Stack 
-4.  Queue  
+3.  [Stack](Module-1/Stack.pdf)
+4.  [Queue](Module-1/Queue.pdf)
 5.  [Set Data Structure:- Representation of sets, Set implementation using bit string.](Module-1/Set.pdf)
 6.  Hashing :- SImple hash functions, Collision and Collision Resolution techniques.
 7.  [Amortised Analysis - Aggregate, Accounting and Potential Methods](Module-1/Amortized%20Analysis)
@@ -29,16 +29,16 @@ Module-2
 Module-3
 ------------
 1.  Mergeable Heaps and operations on Mergeable Heaps.
-2.  [Binomial Heaps, Binomial Heap operations and Analysis](Module-4/Binomial%20Heap)
-3.  [Fibonacci Heaps, Fibonacci Heap operations and Analysis](Module-4/Fibinacci%20Heap)
+2.  [Binomial Heaps, Binomial Heap operations and Analysis](Module-3/Binomial%20Heap)
+3.  [Fibonacci Heaps, Fibonacci Heap operations and Analysis](Module-3/Fibinacci%20Heap)
 
 ------------
 Module-4
 ------------
-1.  Representation of graphs
-2.  Depth First and Breadth First Traversals
-3.  Topological Sorting
-4.  Strongly connected Components and Biconnected Components Minimum Cost Spanning Tree  
+1.  [Representation of graphs](Module-4/REPRESENTATION%20OF%20GRAPHS.pdf)
+2.  [Depth First and Breadth First Traversals](Module-4/DFS%20&%20BFS.pdf)
+3.  [Topological Sorting](Module-4/MST.pdf)
+4.  [Strongly connected Components and Biconnected Components Minimum Cost Spanning Tree](Module-4/BCC&SCC.pdf)
 5.  Prim’s Algorithm
 6.  Kruskal’ Algorithm
 7.  Dijikstra’s single source shortest paths algorithm
@@ -48,5 +48,5 @@ Module-5
 ------------
 1.  [Blockchain Architecture](Module-5)
 2.  Blockchain Data Structures and Data types 
-3.  Contract Data
+3.  [Contract Data](Module-5/smart%20contract.pdf)
 4.  Problems to be solved in Blockchain data analysis
