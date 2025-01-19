@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCA Community Hub</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+        }
+        .hero {
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://source.unsplash.com/1600x600/?college,library') no-repeat center center;
+            background-size: cover;
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: bold;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            margin-top: 15px;
+        }
+        .resource-card {
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .resource-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+        }
+        footer a {
+            color: #f8f9fa;
+        }
+        footer a:hover {
+            color: #17a2b8;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="#">MCA Community Hub</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#resources">Resources</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="container">
+        <h1>Welcome to the MCA Community Hub!</h1>
+        <p>For the academic period 2024-2026 🎓</p>
+        <p>This platform is a one-stop solution designed exclusively for MCA students to access and share resources such as notes, reference videos, syllabus, entrance materials, and more.</p>
+        <a href="#resources" class="btn btn-primary btn-lg mt-3">Explore Resources</a>
+    </div>
+</section>
+
+<!-- About Section -->
+<section id="about" class="py-5">
+    <div class="container text-center">
+        <h2 class="mb-4">About Us</h2>
+        <p class="lead">The MCA Community Hub is a collaborative platform for students pursuing their MCA. Our mission is to make learning easy, accessible, and enjoyable by offering a wide range of academic materials. Join us to enhance your learning experience and grow together!</p>
+    </div>
+</section>
+<!-- Semester Section -->
+<section id="semesters" class="py-5">
+    <div class="container">
+        <h2 class="text-center mb-4">Select Your Semester</h2>
+        <div class="row g-3">
+            <div class="col-md-3">
+                <a href="semester1.html" class="btn btn-outline-primary w-100 py-3">Semester 1</a>
+            </div>
+            <div class="col-md-3">
+                <a href="semester2.html" class="btn btn-outline-primary w-100 py-3">Semester 2</a>
+            </div>
+            <div class="col-md-3">
+                <a href="semester3.html" class="btn btn-outline-primary w-100 py-3">Semester 3</a>
+            </div>
+            <div class="col-md-3">
+                <a href="semester4.html" class="btn btn-outline-primary w-100 py-3">Semester 4</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Resources Section -->
+<section id="resources" class="py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-5">Our Resources</h2>
+        <div class="row g-4">
+            <!-- Resource Card 1 -->
+            <div class="col-md-4">
+                <div class="card resource-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Notes</h5>
+                        <p class="card-text">Access notes for every subject, module-wise, to make learning easier and more organized.</p>
+                        <a href="materials.html" class="btn btn-primary">Explore Notes</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Resource Card 2 -->
+            <div class="col-md-4">
+                <div class="card resource-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Reference Videos</h5>
+                        <p class="card-text">Watch curated video tutorials and lectures to understand complex topics effectively.</p>
+                        <a href="#" class="btn btn-primary">Watch Videos</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Resource Card 3 -->
+            <div class="col-md-4">
+                <div class="card resource-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Syllabus</h5>
+                        <p class="card-text">Download the official MCA syllabus for the academic period 2024-2026.</p>
+                        <a href="#" class="btn btn-primary">View Syllabus</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row g-4 mt-4">
+            <!-- Resource Card 4 -->
+            <div class="col-md-6">
+                <div class="card resource-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Entrance Materials</h5>
+                        <p class="card-text">Prepare for competitive MCA entrance exams with our curated materials.</p>
+                        <a href="#" class="btn btn-primary">Get Materials</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Resource Card 5 -->
+            <div class="col-md-6">
+                <div class="card resource-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Discussion Forum</h5>
+                        <p class="card-text">Engage with your peers and share knowledge through our interactive forum.</p>
+                        <a href="#" class="btn btn-primary">Join Forum</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="py-5 text-white" style="background-color: #343a40;">
+    <div class="container">
+        <h2 class="text-center mb-4">Contact Us</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <h5>Email</h5>
+                <p><a href="mailto:info@mca-hub.com" class="text-light">info@mca-hub.com</a></p>
+            </div>
+            <div class="col-md-6">
+                <h5>Follow Us</h5>
+                <p>
+                    <a href="#" class="text-light me-3">Facebook</a>
+                    <a href="#" class="text-light me-3">Twitter</a>
+                    <a href="#" class="text-light">LinkedIn</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="text-center">
+    <p>&copy; 2024 MCA Community Hub. All rights reserved.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
