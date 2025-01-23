@@ -78,3 +78,5 @@ We invite students and educators to contribute to the MCA Community Hub!
 2. **Clone to Your Local Machine**:  
    ```bash
    git clone https://github.com/your-username/MCA.git
+   thankyou
+   
