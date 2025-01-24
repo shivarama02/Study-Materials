@@ -27,7 +27,7 @@ Module-3
 1. Computer abstractions and technology - Introduction
 2. [Computer architecture -8 Design features](Module%203/8%20great%20ideas.pdf) 
 3. Application program - layers of abstraction
-4. Five key components of a computer
+4. [Five key components of a computer](Module%203/Classic%20Components%20of%20a%20Computer.pdf)
 5. Technologies for building processors and memory
 6. [Performance](Module%203/Performance%20Of%20A%20Computer.pdf)
 7. [Instruction set principles – Introduction](Module%203/Instruction%20Set%201.pdf) 
@@ -40,7 +40,7 @@ Module-4
 ------------
 1. [The Processor - Introduction](Module%204/PROCESSOR.pdf)
 2. Logic design conventions 
-3. Building a datapath A simple implementation scheme
+3. [Building a datapath A simple implementation scheme](Module%204/Building%20the%20Datapath.pdf)
 4. [An overview of pipelining - Pipelined datapath and control](Module%204/Pipelining.pdf)
 5. [Structural hazards - Data hazards - Control hazards](Module%204/Hazards.pdf)
 6. [I/O organization - Accessing I/O devices](Module%204/input%20Output%20org.pdf.pdf) 
