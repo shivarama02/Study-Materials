@@ -5,8 +5,9 @@ ADVANCED DATA STRUCTURES
 ------------
 Module-1
 ------------
-[Hand Written Notes](https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/HandWritten.pdf)
-1.  [Array](Module-1/Array.pdf)
+
+[Hand Written Notes](https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Handwritten.PDF)
+1.  [Array](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/Array.pdf)
 2.  [linked list and its variants](Module-1/Linkedlist.pdf) 
 3.  [Stack](Module-1/Stack.pdf)
 4.  [Queue](Module-1/Queue.pdf)
