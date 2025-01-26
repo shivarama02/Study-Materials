@@ -1,6 +1,6 @@
 ADVANCED DATA STRUCTURES
 -------------------------
-[Detailed Syllubus](Syllubus.pdf)
+[Detailed Syllubus](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Syllubus.pdf)
 
 ------------
 Module-1
