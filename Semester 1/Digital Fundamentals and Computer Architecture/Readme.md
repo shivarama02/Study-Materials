@@ -1,6 +1,6 @@
 DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 -------------------------
-[Detailed Syllubus](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Syllubus.pdf)
+[Detailed Syllubus](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Sylubus.pdf)
 
 [Question Bank](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Question%20Bank.pdf)
 
