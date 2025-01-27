@@ -5,7 +5,7 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 [Question Bank](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Question%20Bank.pdf)
 
 ------------
-[Module-1](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/MODULE%201.pdf)
+[Module-1](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/MODULE%201.pdf)
 ------------
 1. Representation of signed numbers – 1's complement and 2’s complement 
 2. Logic gates – AND -OR – NOT - NAND- NOR - XOR 
@@ -16,7 +16,7 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 7. [Combinational Circuits - Half adder - Full Adder- Decoder -Encoder- Multiplexer – Demultiplexer](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Combinational%20Circuits.pdf)
 
 ------------
-[Module-2](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Module%202.pdf)
+[Module-2](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Module%202.pdf)
 ------------
 1. [Sequential circuit - Clocking](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Latches.pdf)
 2. [Flip flops - SR – JK- D -T flip flops](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Flip%20Flops.pdf)
@@ -24,7 +24,7 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 4. [Registers - Serial in serial out - Serial in parallel out - Parallel in serial out - Parallel in parallel out registers](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Shift%20registers.pdf)
 
 ------------
-[Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/Module%203.pdf)
+[Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/Module%203.pdf)
 ------------
 [PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/PPT%203.pdf)
 
@@ -40,7 +40,7 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 10. Encoding an instruction set
 
 ------------
-[Module-4](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%204/Module%204.pdf)
+[Module-4](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%204/Module%204.pdf)
 ------------
 1. [The Processor - Introduction](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%204/PROCESSOR.pdf)
 2. Logic design conventions 
@@ -52,7 +52,7 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 8. Direct memory access
 
 ------------
-[Module-5](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module_5.pdf)
+[Module-5](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module_5.pdf)
 ------------
 [PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/ppt%205.pdf)
 
