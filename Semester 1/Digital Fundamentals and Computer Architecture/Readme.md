@@ -23,10 +23,10 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 3. [Counters - Synchronous and asynchronous counters - UP/DOWN counters](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Counters.pdf)  
 4. [Registers - Serial in serial out - Serial in parallel out - Parallel in serial out - Parallel in parallel out registers](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Shift%20registers.pdf)
 
-[------------
-Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/Module%203.pdf)
 ------------
-[######PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/PPT%203.pdf)
+[Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/Module%203.pdf)
+------------
+[PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/PPT%203.pdf)
 
 1. Computer abstractions and technology - Introduction
 2. [Computer architecture -8 Design features](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/8%20great%20ideas.pdf) 
@@ -54,12 +54,12 @@ Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Ma
 ------------
 [Module-5](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module_5.pdf)
 ------------
-[######PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/ppt%205.pdf)
+[PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/ppt%205.pdf)
 
-[The Memory System – basic concepts](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Basic%20Concepts.pdf)
-[semiconductor RAM memories - organization – static and dynamic RAM](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Semiconductor.pdf)
-Structure of larger memories
-semiconductor ROM memories
-Speed, Size and cost 
-[Cache memory – mapping functions – replacement algorithms](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module%205_Cache%20Memory.pdf)
-[Virtual memory – paging and segmentation.](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/VirtualMemory.pdf)
+1. [The Memory System – basic concepts](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Basic%20Concepts.pdf)
+2. [semiconductor RAM memories - organization – static and dynamic RAM](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Semiconductor.pdf)
+3. Structure of larger memories
+4. semiconductor ROM memories
+5. Speed, Size and cost 
+6. [Cache memory – mapping functions – replacement algorithms](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module%205_Cache%20Memory.pdf)
+7. [Virtual memory – paging and segmentation.](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/VirtualMemory.pdf)
