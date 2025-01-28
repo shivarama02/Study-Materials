@@ -7,12 +7,12 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 ------------
 [Module-1](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/MODULE%201.pdf)
 ------------
-1. Representation of signed numbers – 1's complement and 2’s complement 
-2. Logic gates – AND -OR – NOT - NAND- NOR - XOR 
-3. Boolean algebra - Basic laws and theorems , Boolean functions - truth table
-4. Standard forms of Boolean Expressions – Sum of Products and Product of Sums 
-5. minimization of Boolean function using Karnaugh map method - Realization using logic gates
-6. Floating point numbers 
+1. [Representation of signed numbers – 1's complement and 2’s complement](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Signed%20Numbers.pdf) 
+2. [Logic gates – AND -OR – NOT - NAND- NOR - XOR](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Logic%20Gates.pdf) 
+3. [Boolean algebra - Basic laws and theorems , Boolean functions - truth table](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Boolean%20Algebra.pdf)
+4. [Standard forms of Boolean Expressions – Sum of Products and Product of Sums](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/SOP%20and%20POS.pdf) 
+5. [minimization of Boolean function using Karnaugh map method - Realization using logic gates](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Kmap.pdf)
+6. [Floating point numbers](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Floating%20Point%20Numbers.pdf) 
 7. [Combinational Circuits - Half adder - Full Adder- Decoder -Encoder- Multiplexer – Demultiplexer](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Combinational%20Circuits.pdf)
 
 ------------
