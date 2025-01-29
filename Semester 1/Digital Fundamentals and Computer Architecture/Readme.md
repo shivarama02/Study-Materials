@@ -1,11 +1,11 @@
 DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 -------------------------
-[Detailed Syllubus](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Syllubus.pdf)
+[Detailed Syllubus](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Sylubus.pdf)
 
 [Question Bank](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Question%20Bank.pdf)
 
 ------------
-[Module-1](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/MODULE%201.pdf)
+[Module-1](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/MODULE%201.pdf)
 ------------
 1. [Representation of signed numbers – 1's complement and 2’s complement](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Signed%20Numbers.pdf) 
 2. [Logic gates – AND -OR – NOT - NAND- NOR - XOR](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Logic%20Gates.pdf) 
@@ -16,17 +16,17 @@ DIGITAL FUNDEMENTALS AND COMPUTER ARCHITECTURE
 7. [Combinational Circuits - Half adder - Full Adder- Decoder -Encoder- Multiplexer – Demultiplexer](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%201/Combinational%20Circuits.pdf)
 
 ------------
-[Module-2](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Module%202.pdf)
+[Module-2](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Module%202.pdf)
 ------------
 1. [Sequential circuit - Clocking](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Latches.pdf)
 2. [Flip flops - SR – JK- D -T flip flops](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Flip%20Flops.pdf)
 3. [Counters - Synchronous and asynchronous counters - UP/DOWN counters](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Counters.pdf)  
 4. [Registers - Serial in serial out - Serial in parallel out - Parallel in serial out - Parallel in parallel out registers](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%202/Shift%20registers.pdf)
 
-[------------
-Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/Module%203.pdf)
 ------------
-[######PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/PPT%203.pdf)
+[Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/Module%203.pdf)
+------------
+[PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/PPT%203.pdf)
 
 1. Computer abstractions and technology - Introduction
 2. [Computer architecture -8 Design features](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%203/8%20great%20ideas.pdf) 
@@ -40,7 +40,7 @@ Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Ma
 10. Encoding an instruction set
 
 ------------
-[Module-4](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%204/Module%204.pdf)
+[Module-4](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%204/Module%204.pdf)
 ------------
 1. [The Processor - Introduction](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%204/PROCESSOR.pdf)
 2. Logic design conventions 
@@ -52,14 +52,14 @@ Module-3](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Ma
 8. Direct memory access
 
 ------------
-[Module-5](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module_5.pdf)
+[Module-5](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module_5.pdf)
 ------------
-[######PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/ppt%205.pdf)
+[PPT File](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/ppt%205.pdf)
 
-[The Memory System – basic concepts](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Basic%20Concepts.pdf)
-[semiconductor RAM memories - organization – static and dynamic RAM](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Semiconductor.pdf)
-Structure of larger memories
-semiconductor ROM memories
-Speed, Size and cost 
-[Cache memory – mapping functions – replacement algorithms](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module%205_Cache%20Memory.pdf)
-[Virtual memory – paging and segmentation.](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/VirtualMemory.pdf)
+1. [The Memory System – basic concepts](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Basic%20Concepts.pdf)
+2. [semiconductor RAM memories - organization – static and dynamic RAM](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Semiconductor.pdf)
+3. Structure of larger memories
+4. semiconductor ROM memories
+5. Speed, Size and cost 
+6. [Cache memory – mapping functions – replacement algorithms](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/Module%205_Cache%20Memory.pdf)
+7. [Virtual memory – paging and segmentation.](https://cetmca26.github.io/Study-Materials/Semester%201/Digital%20Fundamentals%20and%20Computer%20Architecture/Module%205/VirtualMemory.pdf)
