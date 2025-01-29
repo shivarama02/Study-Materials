@@ -13,7 +13,7 @@ Module-1
 4.  [Queue](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/Queue.pdf)
 5.  [Set Data Structure:- Representation of sets, Set implementation using bit string.](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/Set.pdf)
 6.  [Hashing :- SImple hash functions, Collision and Collision Resolution techniques.](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/Hashing.pdf)
-7.  [Amortised Analysis - Aggregate, Accounting and Potential Methods](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/Amortized%20Analysis)
+7.  [Amortised Analysis - Aggregate, Accounting and Potential Methods](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/Amortized%20Analysis/Amortized%20Analysis.pdf)
 8.  [Disjoint sets- representations, Union, Find algorithms](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-1/DisjointSet.pdf)
 
 ------------
