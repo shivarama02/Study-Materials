@@ -19,7 +19,7 @@ Module-1
 ------------
 Module-2
 ------------
-1.  [Balanced Binary Search trees](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/module-2/Balanced%20BST.pdf)
+1.  [Balanced Binary Search trees](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-2/Balanced%20BST.pdf)
 2.  [Red-Black trees- Properties of Red Black trees, Rotations, Insertion, Deletion.](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-2/RedBlackTree/Red%20Black%20Tree.pdf)
 3.  [B-Trees- Basic operations on B-Trees – Insertion and Deletion.](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-2/BTree/BTREE!.pdf)
 4.  [Splay Trees](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-2/Splay%20Tree.pdf)
@@ -40,14 +40,14 @@ Module-4
 2.  [Depth First and Breadth First Traversals](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/DFS%20&%20BFS.pdf)
 3.  [Topological Sorting](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/MST.pdf)
 4.  [Strongly connected Components and Biconnected Components Minimum Cost Spanning Tree](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/BCC&SCC.pdf)
-5.  [Prim’s Algorithm](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/module-4/Prims.pdf)
+5.  [Prim’s Algorithm](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/Prims.pdf)
 6.  [Kruskal’ Algorithm](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/Kruskals%20Algorithm.pdf)
 7.  [Dijikstra’s single source shortest paths algorithm](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/Dijikstras%20Algorithm.pdf)
 
 ------------
-[Module-5](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/module-5/blockchain%20HWN.pdf)
+[Module-5](https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-5/blockchain%20HWN.pdf)
 ------------
-1.  [Blockchain Architecture](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-5/Blockchain.pdf)
-2.  [Blockchain Data Structures and Data types](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/module-5/Blockchain%20Data%20Structures.pdf)
+1.  [Blockchain Architecture](https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-5/BlockChain.pdf)
+2.  [Blockchain Data Structures and Data types](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-5/Blockchain%20Data%20Structures.pdf)
 3.  [Contract Data](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-5/smart%20contract.pdf)
 4.  Problems to be solved in Blockchain data analysis
