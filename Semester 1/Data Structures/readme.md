@@ -40,7 +40,7 @@ Module-2
 Module-4
 ------------
 1.  [Representation of graphs](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/REPRESENTATION%20OF%20GRAPHS.pdf)
-2.  [Depth First and Breadth First Traversals](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/DFS%20&%20BFS.pdf)
+2.  [Depth First and Breadth First Traversals](https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/DFS%20&%20BFS.pdf)
 3.  [Topological Sorting](https://docs.google.com/viewer?url=https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/MST.pdf)
 4.  [BCC](https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/BCC.pdf)
 5.  [Strongly connected Components and Biconnected Components Minimum Cost Spanning Tree](https://cetmca26.github.io/Study-Materials/Semester%201/Data%20Structures/Module-4/BCC&SCC.pdf)
